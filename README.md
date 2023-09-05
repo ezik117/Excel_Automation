@@ -1,2 +1,5 @@
 # Excel_Automation
-Class for Excel automation
+Класс для раннего связывания с объектом Excel.Application.
+Реализует основные методы для упрощения доступа.
+Доступные методы:
+![screenshot]()
